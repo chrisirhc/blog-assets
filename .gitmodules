@@ -1,0 +1,3 @@
+[submodule "shape-text-example"]
+	path = shape-text-example
+	url = https://github.com/chrisirhc/blog-shapeTextExample.git
