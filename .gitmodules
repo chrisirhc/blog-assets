@@ -4,3 +4,12 @@
 [submodule "extensible-widgets/example-6"]
 	path = extensible-widgets/example-6
 	url = https://gist.github.com/6840986.git
+[submodule "test-friendly/case-1"]
+	path = test-friendly/case-1
+	url = https://gist.github.com/5631245.git
+[submodule "test-friendly/case-2"]
+	path = test-friendly/case-2
+	url = https://gist.github.com/5541721.git
+[submodule "test-friendly/case-3"]
+	path = test-friendly/case-3
+	url = https://gist.github.com/5883173.git
