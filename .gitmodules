@@ -1,3 +1,6 @@
 [submodule "shape-text-example"]
 	path = shape-text-example
 	url = https://github.com/chrisirhc/blog-shapeTextExample.git
+[submodule "extensible-widgets/example-6"]
+	path = extensible-widgets/example-6
+	url = https://gist.github.com/6840986.git
